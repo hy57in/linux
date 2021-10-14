@@ -1,1 +1,7 @@
 linux-5.4.153/ filter=lfs diff=lfs merge=lfs -text
+*.h filter=lfs diff=lfs merge=lfs -text
+*.dwo filter=lfs diff=lfs merge=lfs -text
+*.mod filter=lfs diff=lfs merge=lfs -text
+*.mod.dwo filter=lfs diff=lfs merge=lfs -text
+*.mod.c filter=lfs diff=lfs merge=lfs -text
+*.mod.py filter=lfs diff=lfs merge=lfs -text
