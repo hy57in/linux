@@ -1,14 +1,5 @@
-
-
-
 #vscode
 .vscode
-
-
-
-
-
-
 
 # NOTE! Don't add files that are generated in specific
 # subdirectories here. Add them in the ".gitignore" file
@@ -90,31 +81,4 @@ GTAGS
 *.orig
 *~
 
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-B
-B
-B
-B
-B
-B
-B
-B
-B
 \#*#
