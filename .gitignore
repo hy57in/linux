@@ -1,2 +1,6 @@
 #vscode
 .vscode
+*.o
+*.obj
+*.exe
+*.out
